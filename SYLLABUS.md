@@ -4,23 +4,23 @@
 
 ## Official Course Blurb
 
-> Programming is and always has been specifying the behavior of a machine. In an
-> earlier day, people programmed in assembly language, which was eventually
-> supplanted by a series of higher level symbolic languages. Today we program
-> behaviors of machines ("code") in Java, Javascript, Python, etc. Just as in an
-> earlier day assembler was supplanted by higher level languages, today perhaps
-> we're on the threshold of another inflection point in programming. We can
-> already use ChatGPT to generate code in symbolic languages by specifying
-> behavior in natural language (e.g., "write a Python program that sorts an
-> array of strings in alphabetical order using an efficient sorting algorithm").
-> Success depends on being precise and particular in the natural language
-> description. Whereas to date a programmer's skill has been the ability to
-> specify behavior within the constraints of symbolic language primitives and
-> syntax, perhaps soon the skills needed will be the ability to specify behavior
-> in natural language. This experimental class investigates this proposition by
-> trying to write complex software using natural language "prompts" , including
-> writing unit tests, debugging, all the usual apparatus familiar from
-> conventional symbolic language software engineering. How far can we push this?
+Programming is and always has been specifying the behavior of a machine. In an
+earlier day, people programmed in assembly language, which was eventually
+supplanted by a series of higher level symbolic languages. Today we program
+behaviors of machines ("code") in Java, Javascript, Python, etc. Just as in an
+earlier day assembler was supplanted by higher level languages, today perhaps
+we're on the threshold of another inflection point in programming. We can
+already use ChatGPT to generate code in symbolic languages by specifying
+behavior in natural language (e.g., "write a Python program that sorts an
+array of strings in alphabetical order using an efficient sorting algorithm").
+Success depends on being precise and particular in the natural language
+description. Whereas to date a programmer's skill has been the ability to
+specify behavior within the constraints of symbolic language primitives and
+syntax, perhaps soon the skills needed will be the ability to specify behavior
+in natural language. This experimental class investigates this proposition by
+trying to write complex software using natural language "prompts" , including
+writing unit tests, debugging, all the usual apparatus familiar from
+conventional symbolic language software engineering. How far can we push this?
 
 ## Why are we here? How will this go?
 
