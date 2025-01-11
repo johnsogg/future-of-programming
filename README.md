@@ -9,7 +9,8 @@ nature of the class this will be made as we go.
 
 1. [Make a journal (a Google slides deck) in our shared
    drive](https://drive.google.com/drive/folders/1ffZHWLzqzBFL4z_9rktCp_hEKaNoXjpI?usp=drive_link).
-   You'll need permission. See the section on 'our collective journals'.
+   You'll need permission. See the section in the syllabus on 'our collective
+   journals'.
 2. If you're not already set up with a development environment, do that. If you
    need help, I've made a few [videos on getting set up with a Typescript
    stack](https://www.youtube.com/watch?v=f91OdNKQ1SE&list=PLAuBm-v5PQFd0yCKW7rJ4_CHFbBdBdie0).
