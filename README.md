@@ -1,5 +1,10 @@
 # The Future of Programming? - Week by week
 
+This is a week-by-week rundown of what we're doing. Given the experimental
+nature of the class this will be made as we go.
+
+[Looking for the syllabus?](SYLLABUS.md)
+
 ## Jan 13
 
 1. Make a journal (a Google slides deck) in our shared drive. You'll need
