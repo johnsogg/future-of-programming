@@ -25,6 +25,9 @@ nature of the class this will be made as we go.
    moving around on the screen, bouncing off walls and each other. Any
    language/framework is OK.
 
+If you want inspiration for tools to try out, here is a [good blog post from a non-developer's 
+perspective on build products with AI](https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product).
+
 ## Jan 20: No class
 
 MLK day!
