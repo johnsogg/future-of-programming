@@ -43,3 +43,5 @@ MLK day!
 1. We will talk about how the Binary Search Tree and Bouncing Balls exercise
    went. Will pick a few people to take turns leading discussion based on your
    journal slides.
+2. Friendly request regarding slides: we might present your slides in class so be sure they are legible in the back of the room. Big font, etc. Also, if your slides involve other resources be sure they are accessible to everyone without needing to request permission.
+   
