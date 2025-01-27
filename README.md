@@ -49,7 +49,9 @@ In class:
 
 1. `N` show and tells for the first half of class before breaking. Remember to tell the story in a way everyone can understand, and slow down your live programming to give people a chance to absorb it.
 2. After break we will do an exercise with a partner. Two options:
-   a. one of you write a server, the other writes a client. They should communicate using a shared API. The server and client should be written in different languages. The overall system can be whatever you like: a game, a restaurant inventory system, an e-commerce thing, whatever.
-   b. (intentionally hard) Programming in English: writing nothing but English prose, write a simplified clone of your favorite retro video game. This can include prose descriptions of image assets, sounds, interaction design, data structures, input controls, etc.
-3. For homework, either do the in-class exercise that you didn't do, or read the [DeepSeek paper](https://arxiv.org/abs/2412.19437). Either way, be prepared to present/discuss it next time.
+   1. one of you write a server, the other writes a client. They should communicate using a shared API. The server and client should be written in different languages. The overall system can be whatever you like: a game, a restaurant inventory system, an e-commerce thing, whatever.
+   2. (intentionally hard) Programming in English: writing nothing but English prose, write a simplified clone of your favorite retro video game. This can include prose descriptions of image assets, sounds, interaction design, data structures, input controls, etc.
+3. For homework, either
+   1. Do the in-class exercise that you didn't do. _Write down what you intend to do before you start._ This is so you can determine if you achieved your goal, or if you just floated with the wind and happened to make a cool thing. Also, wrap it up with some level of polish so it is coherently presentable.
+   2. Or, read the [DeepSeek paper](https://arxiv.org/abs/2412.19437). Either way, be prepared to present/discuss it next time.
    
