@@ -44,4 +44,12 @@ MLK day!
    went. Will pick a few people to take turns leading discussion based on your
    journal slides.
 2. Friendly request regarding slides: we might present your slides in class so be sure they are legible in the back of the room. Big font, etc. Also, if your slides involve other resources be sure they are accessible to everyone without needing to request permission.
+
+In class:
+
+1. `N` show and tells for the first half of class before breaking. Remember to tell the story in a way everyone can understand, and slow down your live programming to give people a chance to absorb it.
+2. After break we will do an exercise with a partner. Two options:
+   a. one of you write a server, the other writes a client. They should communicate using a shared API. The server and client should be written in different languages. The overall system can be whatever you like: a game, a restaurant inventory system, an e-commerce thing, whatever.
+   b. (intentionally hard) Programming in English: writing nothing but English prose, write a simplified clone of your favorite retro video game. This can include prose descriptions of image assets, sounds, interaction design, data structures, input controls, etc.
+3. For homework, either do the in-class exercise that you didn't do, or read the [DeepSeek paper](https://arxiv.org/abs/2412.19437). Either way, be prepared to present/discuss it next time.
    
