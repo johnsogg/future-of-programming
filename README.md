@@ -53,5 +53,5 @@ In class:
    2. (intentionally hard) Programming in English: writing nothing but English prose, write a simplified clone of your favorite retro video game. This can include prose descriptions of image assets, sounds, interaction design, data structures, input controls, etc.
 3. For homework, either
    1. Do the in-class exercise that you didn't do. _Write down what you intend to do before you start._ This is so you can determine if you achieved your goal, or if you just floated with the wind and happened to make a cool thing. Also, wrap it up with some level of polish so it is coherently presentable.
-   2. Or, read the [DeepSeek paper](https://arxiv.org/abs/2412.19437). Either way, be prepared to present/discuss it next time.
+   2. Or, read the [DeepSeek R1 paper](https://arxiv.org/abs/2501.12948). Either way, be prepared to present/discuss it next time.
    
