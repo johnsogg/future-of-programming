@@ -54,4 +54,22 @@ In class:
 3. For homework, either
    1. Do the in-class exercise that you didn't do. _Write down what you intend to do before you start._ This is so you can determine if you achieved your goal, or if you just floated with the wind and happened to make a cool thing. Also, wrap it up with some level of polish so it is coherently presentable.
    2. Or, read the [DeepSeek R1 paper](https://arxiv.org/abs/2501.12948). Either way, be prepared to present/discuss it next time.
-   
+
+## Feb 3
+
+1. Overview of 3-week idea (see below). First thing to do is divide into three groups, and group 1 will pitch an idea at the break.
+2. More show & tell:
+   1. Client/Server and Retro Game mini-projects
+   2. R1 paper
+3. After break: We've done the LLM-as-prototyping-tool enough, and I think we all understand roughly how that works for one-off hacks. But we have not explored how LLMs can support _ongoing_ work over time in a _collaborative_ context. So: We will spend the next three weeks in small groups building a product to spec using LLMs.
+   1. Each person from group 1 will pitch a product idea. 
+   2. Then we will open the floor to chaos - go talk to people who pitched, pick a project to work on, and form a team.
+   3. Teams must be between 3 and 5 people. Groups of 6 will break into two teams. [Teams are listed here on the pitch summary post](https://github.com/johnsogg/future-of-programming/discussions/5).
+   4. Sponsors are _not allowed to work their own product pitch_. A sponsor's role is only to determine if the group(s) working on the product are meeting their spec.
+   5. Speaking of spec: sponsors will formalize their design brief in a discussion forum post. They are:
+      1. [Caloric and Nutrient Count App](https://github.com/johnsogg/future-of-programming/discussions/10)
+      2. [Coherent Calendar – Product Requirements Document](https://github.com/johnsogg/future-of-programming/discussions/9)
+      3. [Duolingo for code](https://github.com/johnsogg/future-of-programming/discussions/8)
+      4. [Ocean Geographical Map Specification](https://github.com/johnsogg/future-of-programming/discussions/7)
+      5. [Spaced Repetition Specification](https://github.com/johnsogg/future-of-programming/discussions/6)
+4. Next week we will get an update from groups on how LLMs work in a collaborative context (since not enough time has passed to look at the _ongoing_ part of the effort).
