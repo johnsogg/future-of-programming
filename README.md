@@ -73,3 +73,9 @@ In class:
       4. [Ocean Geographical Map Specification](https://github.com/johnsogg/future-of-programming/discussions/7)
       5. [Spaced Repetition Specification](https://github.com/johnsogg/future-of-programming/discussions/6)
 4. Next week we will get an update from groups on how LLMs work in a collaborative context (since not enough time has passed to look at the _ongoing_ part of the effort).
+
+## Feb 24
+
+1. Discuss the state of the class, what we want to get out of this, what we want to accomplish/produce.
+2. This is the end of the three week projects! Each group should be able to show some polish and be able to talk about the collaboration and maintenance of an LLM-driven effort.
+3. Thank you to the people who have made slides easier to read by including dates or week numbers.
