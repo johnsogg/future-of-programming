@@ -156,8 +156,8 @@ specific questions:
   - Should we teach/learn to code like we did 20 years ago? If not, what is a
     good modern approach that includes AI?
 
-2.  Sena made a [sign-up spreadsheet for Tiny Ted
-    Talks](https://o365coloradoedu-my.sharepoint.com/:x:/r/personal/seuc9452_colorado_edu/Documents/2023Fall-Image/SenaLUctuk-Project1-ReframingPortrait/LLM/TinyTedSignup.xlsx?d=w186799e9f49e49faa5ca90a60aff23e6&csf=1&web=1&e=EL6ndv).
+2.  Here is a [sign-up spreadsheet for Tiny Ted
+    Talks](https://docs.google.com/spreadsheets/d/18YlnkrmAXnMzyevi9m4HwRhNSpL6NuYKUuGMf3d6gXM/edit?usp=sharing).
     Each week we need 3–4 people to give a talk. They should be concise and
     reasonably rehearsed. Plan to talk for <= 7 minutes with <= 5 minutes of
     Q&A. These talks will take the first half of class.
