@@ -165,6 +165,11 @@ specific questions:
 3.  The second half of class will be to have a wider discussion on the same
     general topic as the tiny Ted talks.
 
+## March 3
+
+Clayton Lewis came to class via Zoom and gave a wonderful talk about AI, LLMs, how we got here, and some really great historical perspective. Slides: https://docs.google.com/presentation/d/1rUnkNTzmTgtU6R-KuVJN6tt4bFOjrvJwbhAZYCa3SeA/edit?usp=sharing
+
+
 ## March 17
 
 Nikolaus Klassen will be the guest speaker on this day. He's sent ahead the following link for everybody's reading enjoyment, which he'll mention in his talk: https://www.nature.com/articles/s41562-024-02024-1
