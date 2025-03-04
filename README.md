@@ -164,3 +164,9 @@ specific questions:
 
 3.  The second half of class will be to have a wider discussion on the same
     general topic as the tiny Ted talks.
+
+## March 17
+
+Nikolaus Klassen will be the guest speaker on this day. He's sent ahead the following link for everybody's reading enjoyment, which he'll mention in his talk: https://www.nature.com/articles/s41562-024-02024-1
+
+
