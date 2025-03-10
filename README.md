@@ -169,9 +169,16 @@ specific questions:
 
 Clayton Lewis came to class via Zoom and gave a wonderful talk about AI, LLMs, how we got here, and some really great historical perspective. Slides: https://docs.google.com/presentation/d/1rUnkNTzmTgtU6R-KuVJN6tt4bFOjrvJwbhAZYCa3SeA/edit?usp=sharing
 
+## March 10
+
+Misc links:
+
+- [LLMs for the curious beginner](https://youtu.be/LPZh9BOjkQs?si=Jd-biQJyOvI4rtE5)
+- [Longer talk on how LLMs work, in technical detail. It is great.](https://youtu.be/KJtZARuO3JY?si=l6NKyCnXTcv7n1l5)
 
 ## March 17
 
 Nikolaus Klassen will be the guest speaker on this day. He's sent ahead the following link for everybody's reading enjoyment, which he'll mention in his talk: https://www.nature.com/articles/s41562-024-02024-1
+
 
 
