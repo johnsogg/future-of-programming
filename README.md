@@ -192,8 +192,14 @@ One thing I'd like to impress on everybody is the need to be _concise_ for your 
 
 For your presentation on the last day of class (April 28), you get:
 
-* **One Slide** - this can be graphic or text, whatever you want. But there can only be one slide, so most of your narrative has to be in your head. We will all use the same slide deck, so put your single slide here: [Final Presentations Slide Deck](https://docs.google.com/presentation/d/1oP1HtxHpEVY67AXktlxd6Ji00MKT9t083_DN_oQRuhY/edit?usp=sharing)
+* **One Slide** - this can be graphic or text, whatever you want. But there can only be one slide, so most of your narrative has to be in your head. We will all use the same slide deck, so put your single slide here: [Final Presentations Slide Deck](https://docs.google.com/presentation/d/1oP1HtxHpEVY67AXktlxd6Ji00MKT9t083_DN_oQRuhY/edit?usp=sharing). Keep a copy of your slide somewhere safe, just in case, since all of us have edit access to this deck.
 * **Three Minutes** - Plan to tell us your LLM story for three minutes, and we'll have a couple minutes of Q&A. Since there are 20+ of you, we'll have to stick to the clock in order to accommodate all the speakers.
 
-We'll expect you to be able to give a coherent, concise, interesting lightning talk. This goes for everybody, but especially for PhD students we expect you to really nail it.
+We'll expect you to be able to give a coherent, concise, interesting lightning talk. This goes for everybody, but especially for PhD students we expect you to really nail it. Some things to consider:
+
+- What is the context?
+- What is the project about?
+- What difficulties did you encounter? How did you overcome them? (Or, did you?)
+- What did you learn, and what wisdom can you impart on your peers?
+- Focus less on providing detail, and more on providing high-level insights.
 
