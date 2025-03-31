@@ -182,6 +182,8 @@ Nikolaus Klassen will be the guest speaker on this day. He's sent ahead the foll
 
 ## March 31
 
+Today we have Eric Minnick coming in from Harness to talk about how AI is changing the CI/CD scene for software development. 
+
 **Projects!**
 
 Now that Spring Break is over, we can focus on the final sprint to the finish line. From here on out, we'll be working on an LLM-related project, much like we have been doing all semester long. We will spend a portion of class over the next few weeks to what we're doing and learning from the projects.
