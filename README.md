@@ -203,3 +203,7 @@ We'll expect you to be able to give a coherent, concise, interesting lightning t
 - What did you learn, and what wisdom can you impart on your peers?
 - Focus less on providing detail, and more on providing high-level insights.
 
+## April 7
+
+We made a map of the territory, here: https://www.figma.com/board/8dLTDYdB4953RtoLicQGHZ/AI-addled-tooling?node-id=0-1&t=nBe0Pq4dL3XnmumB-1
+
