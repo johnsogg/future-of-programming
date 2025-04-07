@@ -182,7 +182,7 @@ Nikolaus Klassen will be the guest speaker on this day. He's sent ahead the foll
 
 ## March 31
 
-Today we have Eric Minnick coming in from Harness to talk about how AI is changing the CI/CD scene for software development. 
+Today we have Eric Minnick coming in from Harness to talk about how AI is changing the CI/CD scene for software development.
 
 **Projects!**
 
@@ -192,8 +192,8 @@ One thing I'd like to impress on everybody is the need to be _concise_ for your 
 
 For your presentation on the last day of class (April 28), you get:
 
-* **One Slide** - this can be graphic or text, whatever you want. But there can only be one slide, so most of your narrative has to be in your head. We will all use the same slide deck, so put your single slide here: [Final Presentations Slide Deck](https://docs.google.com/presentation/d/1oP1HtxHpEVY67AXktlxd6Ji00MKT9t083_DN_oQRuhY/edit?usp=sharing). Keep a copy of your slide somewhere safe, just in case, since all of us have edit access to this deck.
-* **Three Minutes** - Plan to tell us your LLM story for three minutes, and we'll have a couple minutes of Q&A. Since there are 20+ of you, we'll have to stick to the clock in order to accommodate all the speakers.
+- **One Slide** - this can be graphic or text, whatever you want. But there can only be one slide, so most of your narrative has to be in your head. We will all use the same slide deck, so put your single slide here: [Final Presentations Slide Deck](https://docs.google.com/presentation/d/1oP1HtxHpEVY67AXktlxd6Ji00MKT9t083_DN_oQRuhY/edit?usp=sharing). Keep a copy of your slide somewhere safe, just in case, since all of us have edit access to this deck.
+- **Three Minutes** - Plan to tell us your LLM story for three minutes, and we'll have a couple minutes of Q&A. Since there are 20+ of you, we'll have to stick to the clock in order to accommodate all the speakers.
 
 We'll expect you to be able to give a coherent, concise, interesting lightning talk. This goes for everybody, but especially for PhD students we expect you to really nail it. Some things to consider:
 
@@ -207,3 +207,6 @@ We'll expect you to be able to give a coherent, concise, interesting lightning t
 
 We made a map of the territory, here: https://www.figma.com/board/8dLTDYdB4953RtoLicQGHZ/AI-addled-tooling?node-id=0-1&t=nBe0Pq4dL3XnmumB-1
 
+This is the rough cut that we made in class together:
+
+![AI Tooling Map](img/ai-tooling-map.png)
